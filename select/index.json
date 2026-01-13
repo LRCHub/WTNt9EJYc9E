@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "favorite song",
+  "base_artist": "ふみの",
+  "createdAt": "2026-01-13T08:23:35.750024Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Her Favorite Song",
+      "artist": "Mayer Hawthorne",
+      "has_synced": true,
+      "path": "select/01_Her_Favorite_Song_Mayer_Hawthorne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Favorite Song",
+      "artist": "24hrs",
+      "has_synced": true,
+      "path": "select/02_Favorite_Song_24hrs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "4 Min Convo (Favorite Song)",
+      "artist": "A Boogie wit da Hoodie",
+      "has_synced": true,
+      "path": "select/03_4_Min_Convo_(Favorite_Song)_A_Boogie_wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The List (My Favorite Song)",
+      "artist": "Ariel Pink's Haunted Graffiti",
+      "has_synced": true,
+      "path": "select/04_The_List_(My_Favorite_Song)_Ariel_Pink's_Haunted_Graffiti.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Favorite Song (feat. Childish Gambino)",
+      "artist": "Chance the Rapper feat. Childish Gambino",
+      "has_synced": true,
+      "path": "select/05_Favorite_Song_(feat._Childish_Gambino)_Chance_the_Rapper_feat._Childish_Gambino.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Favorite Song (ft. Childish Gambino)",
+      "artist": "Chance The Rapper",
+      "has_synced": true,
+      "path": "select/06_Favorite_Song_(ft._Childish_Gambino)_Chance_The_Rapper.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "your Favorite Song",
+      "artist": "Ether Aura",
+      "has_synced": false,
+      "path": "select/07_your_Favorite_Song_Ether_Aura.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You're My Favorite Song",
+      "artist": "Demi Lovato & Joe Jonas",
+      "has_synced": true,
+      "path": "select/08_You're_My_Favorite_Song_Demi_Lovato_&_Joe_Jonas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mr. Richland's Favorite Song",
+      "artist": "Harry Nilsson",
+      "has_synced": true,
+      "path": "select/09_Mr._Richland's_Favorite_Song_Harry_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mr. Richland's Favorite Song - Live on BBC's \"Saturday Club\"",
+      "artist": "Harry Nilsson",
+      "has_synced": false,
+      "path": "select/10_Mr._Richland's_Favorite_Song_-_Live_on_BBC's__Saturday_Club_Harry_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mr Richards Favorite Song",
+      "artist": "Harry Nilsson",
+      "has_synced": true,
+      "path": "select/11_Mr_Richards_Favorite_Song_Harry_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Favorite Song",
+      "artist": "Colbie Caillat feat. Common",
+      "has_synced": true,
+      "path": "select/12_Favorite_Song_Colbie_Caillat_feat._Common.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Favorite Song (feat. Common)",
+      "artist": "Colbie Caillat",
+      "has_synced": false,
+      "path": "select/13_Favorite_Song_(feat._Common)_Colbie_Caillat.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Amazing Grace (Used to Be Her Favorite Song)",
+      "artist": "The Amazing Rhythm Aces",
+      "has_synced": false,
+      "path": "select/14_Amazing_Grace_(Used_to_Be_Her_Favorite_Song)_The_Amazing_Rhythm_Aces.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Amazing Grace (Used To Be Her Favorite Song)",
+      "artist": "Amazing Rhythm Aces, The",
+      "has_synced": false,
+      "path": "select/15_Amazing_Grace_(Used_To_Be_Her_Favorite_Song)_Amazing_Rhythm_Aces,_The.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Favorite Song",
+      "artist": "Nine Days",
+      "has_synced": true,
+      "path": "select/16_Favorite_Song_Nine_Days.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "That's My Favorite Song (Single Version)",
+      "artist": "The Dramatics",
+      "has_synced": false,
+      "path": "select/17_That's_My_Favorite_Song_(Single_Version)_The_Dramatics.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "favorite song",
+      "artist": "ふみの",
+      "has_synced": false,
+      "path": "select/pl_01_favorite_song_ふみの.txt"
+    }
+  ]
+}
